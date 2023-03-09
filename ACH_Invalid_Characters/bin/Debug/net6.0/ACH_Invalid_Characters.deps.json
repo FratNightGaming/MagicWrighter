@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ACH_Invalid_Characters/1.0.0": {
+        "runtime": {
+          "ACH_Invalid_Characters.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ACH_Invalid_Characters/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

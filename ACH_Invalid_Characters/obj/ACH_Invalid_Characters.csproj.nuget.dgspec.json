@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\berge\\OneDrive\\Documents\\homework-exercises\\ach-find-invalid-chars\\ACH_Invalid_Characters\\ACH_Invalid_Characters.csproj": {}
+    "C:\\Users\\berge\\OneDrive\\Documents\\MagicWrighter\\ACH_Invalid_Characters\\ACH_Invalid_Characters.csproj": {}
   },
   "projects": {
-    "C:\\Users\\berge\\OneDrive\\Documents\\homework-exercises\\ach-find-invalid-chars\\ACH_Invalid_Characters\\ACH_Invalid_Characters.csproj": {
+    "C:\\Users\\berge\\OneDrive\\Documents\\MagicWrighter\\ACH_Invalid_Characters\\ACH_Invalid_Characters.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\berge\\OneDrive\\Documents\\homework-exercises\\ach-find-invalid-chars\\ACH_Invalid_Characters\\ACH_Invalid_Characters.csproj",
+        "projectUniqueName": "C:\\Users\\berge\\OneDrive\\Documents\\MagicWrighter\\ACH_Invalid_Characters\\ACH_Invalid_Characters.csproj",
         "projectName": "ACH_Invalid_Characters",
-        "projectPath": "C:\\Users\\berge\\OneDrive\\Documents\\homework-exercises\\ach-find-invalid-chars\\ACH_Invalid_Characters\\ACH_Invalid_Characters.csproj",
+        "projectPath": "C:\\Users\\berge\\OneDrive\\Documents\\MagicWrighter\\ACH_Invalid_Characters\\ACH_Invalid_Characters.csproj",
         "packagesPath": "C:\\Users\\berge\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\berge\\OneDrive\\Documents\\homework-exercises\\ach-find-invalid-chars\\ACH_Invalid_Characters\\obj\\",
+        "outputPath": "C:\\Users\\berge\\OneDrive\\Documents\\MagicWrighter\\ACH_Invalid_Characters\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\berge\\AppData\\Roaming\\NuGet\\NuGet.Config",

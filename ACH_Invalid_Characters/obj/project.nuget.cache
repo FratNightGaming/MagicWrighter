@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xaA0CdMxe4Z6X2x0EqDWTaXkmHhXWJ2TIypORcy3w4PRXBnTD5dfF4TRvzYKo8+bZUI50O9zmWMsfjGXlsKUNg==",
+  "dgSpecHash": "nsr+JdRhZ0VnYcKV3H680Df7naOJxxImxzYWg6wbYP4T4f6gfYqYKJtPbo0qxqaBbdGvGzPdvD//k1KJDcL+9A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\berge\\OneDrive\\Documents\\homework-exercises\\ach-find-invalid-chars\\ACH_Invalid_Characters\\ACH_Invalid_Characters.csproj",
+  "projectFilePath": "C:\\Users\\berge\\OneDrive\\Documents\\MagicWrighter\\ACH_Invalid_Characters\\ACH_Invalid_Characters.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

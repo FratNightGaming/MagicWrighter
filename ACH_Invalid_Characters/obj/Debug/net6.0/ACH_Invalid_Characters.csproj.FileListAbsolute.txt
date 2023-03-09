@@ -1,0 +1,15 @@
+C:\Users\berge\OneDrive\Documents\MagicWrighter\ACH_Invalid_Characters\bin\Debug\net6.0\ACH_Invalid_Characters.exe
+C:\Users\berge\OneDrive\Documents\MagicWrighter\ACH_Invalid_Characters\bin\Debug\net6.0\ACH_Invalid_Characters.deps.json
+C:\Users\berge\OneDrive\Documents\MagicWrighter\ACH_Invalid_Characters\bin\Debug\net6.0\ACH_Invalid_Characters.runtimeconfig.json
+C:\Users\berge\OneDrive\Documents\MagicWrighter\ACH_Invalid_Characters\bin\Debug\net6.0\ACH_Invalid_Characters.dll
+C:\Users\berge\OneDrive\Documents\MagicWrighter\ACH_Invalid_Characters\bin\Debug\net6.0\ACH_Invalid_Characters.pdb
+C:\Users\berge\OneDrive\Documents\MagicWrighter\ACH_Invalid_Characters\obj\Debug\net6.0\ACH_Invalid_Characters.csproj.AssemblyReference.cache
+C:\Users\berge\OneDrive\Documents\MagicWrighter\ACH_Invalid_Characters\obj\Debug\net6.0\ACH_Invalid_Characters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berge\OneDrive\Documents\MagicWrighter\ACH_Invalid_Characters\obj\Debug\net6.0\ACH_Invalid_Characters.AssemblyInfoInputs.cache
+C:\Users\berge\OneDrive\Documents\MagicWrighter\ACH_Invalid_Characters\obj\Debug\net6.0\ACH_Invalid_Characters.AssemblyInfo.cs
+C:\Users\berge\OneDrive\Documents\MagicWrighter\ACH_Invalid_Characters\obj\Debug\net6.0\ACH_Invalid_Characters.csproj.CoreCompileInputs.cache
+C:\Users\berge\OneDrive\Documents\MagicWrighter\ACH_Invalid_Characters\obj\Debug\net6.0\ACH_Invalid_Characters.dll
+C:\Users\berge\OneDrive\Documents\MagicWrighter\ACH_Invalid_Characters\obj\Debug\net6.0\refint\ACH_Invalid_Characters.dll
+C:\Users\berge\OneDrive\Documents\MagicWrighter\ACH_Invalid_Characters\obj\Debug\net6.0\ACH_Invalid_Characters.pdb
+C:\Users\berge\OneDrive\Documents\MagicWrighter\ACH_Invalid_Characters\obj\Debug\net6.0\ACH_Invalid_Characters.genruntimeconfig.cache
+C:\Users\berge\OneDrive\Documents\MagicWrighter\ACH_Invalid_Characters\obj\Debug\net6.0\ref\ACH_Invalid_Characters.dll
